@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Newsletter-Signup",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
